@@ -1,54 +1,51 @@
 
 # Taha Mert Gökdemir  
-### Senior Software Engineer (C/C++/Linux System Programming)  
+### Software Engineer (C/C++)  
 **Email:** taha.m.gokdemir@gmail.com | **Phone:** +90-554-747-6997  
 **Location:** İstanbul, Turkey | **GitHub:** tahameg | **LinkedIn:** /in/taha-mert-gokdemir/  
 
 **About Me:**
 
-I am an experienced Software Engineer with a strong focus on C/C++ and Linux system programming. I excel in developing high-performance applications, optimizing systems, and handling real-time communications. I also have a solid background in simulations and graphics APIs, and I’m skilled in application and game engine programming, using both Unreal (C++) and Unity (C#).
+I am an experienced Software Engineer with a strong focus on C/C++ and Real-time Simulations. I excel in developing high-performance applications, optimizing systems, and handling real-time communications. I also have a solid background in simulations and graphics APIs, and I’m skilled in application programming and real time simulation development
 
 ---
 
 ## **Experience**
 
-### **Senior Software Engineer**  
+### **Software Engineer**  
 **Born Immersive** | June 2023 – Present | London, UK  
-As a Senior Software Engineer, I specialize in C/C++ development for high-performance XR applications and backend services.
+As a Senior Software Engineer, I specialize in C/C++ development for high-performance simulation applications and backend services.
 
 - **Graphics API Development**  
   - Developed industrial graphical applications using **Vulkan** and **OpenGL** on **Linux** for real-time training and simulation systems.  
 
 - **C++ SDK & Networking**  
-  - Designed and implemented core modules in **C++**, including cross-platform support for Linux-based systems using **POSIX** APIs.  
-  - Integrated real-time communication between XR devices and backend services, improving data transmission speed and reliability.  
-  - Implemented low-level **UDP/TCP socket communication** for multiplayer XR environments, ensuring real-time performance.
+  - Designed and implemented core simulation modules in **C++**, including cross-platform support for Linux-based systems using **POSIX** APIs.  
+  - Implemented low-level **UDP/TCP socket communication** for multiplayer simulation environments, ensuring real-time performance.
 
 - **Project Leadership**  
   - Led the Bottling Machine Lockout Procedure Simulation project, utilizing **C++** for logic and **socket programming** to manage synchronized multi-user sessions.
 
-**Tech Stack**: C++, OpenGL, Vulkan, Linux System Programming, POSIX, Sockets, Unity, XRITK, MRTK  
+**Tech Stack**: C++, C#, OpenGL, Vulkan, POSIX, Sockets, Parallel Programming 
 
 ---
 
 ### **Software Engineer**  
 **Havelsan** | February 2022 – June 2023 | İstanbul, Turkey  
-Worked in the Advanced Technologies Department with a focus on C/C++ development for XR and real-time simulation systems.
+Worked in the Advanced Technologies Department with a focus on C/C++ development for real-time simulation systems.
 
-- **Linux System Programming & VR Development**  
-  - Developed core VR simulation systems using **C++** and **Unreal Engine**.  
-  - Developed core VR simulation systems using **C#** and **Unity Engine**.  
+- **Simulation Development**  
+  - Developed core simulation systems using **C++** and **C#**.  
 
 - **Networked Real-Time Simulations**  
-  - Designed and implemented a scalable etwork layer using **C++** and **TCP/UDP sockets** for a multi-user military simulation environment interoperable 
+  - Designed and implemented a scalable network layer using **C++** and **TCP/UDP sockets** for a multi-user military simulation environment interoperable 
   between GNU and Windows.
-  - Ensured low-latency communication between simulation servers and VR clients, achieving real-time response rates.
 
-**Tech Stack**: C++, Unreal Engine, C#, Unity Engine, Sockets (TCP/UDP), OpenXR, Compute Shaders, Hololens 2  
+**Tech Stack**: C, C++, C#, Sockets (TCP/UDP), Parallel Programming
 
 ---
 
-### **Senior Software Engineer**  
+### **Software Engineer**  
 **C Tech Information Technologies Industry and Trade Inc.** | April 2021 – February 2022 | İstanbul, Turkey  
 Focused on data transmission and visualization solutions for military-grade communication systems.
 
@@ -69,33 +66,32 @@ Focused on data transmission and visualization solutions for military-grade comm
 **Soar Robotics** | November 2019 – April 2021 | İstanbul, Turkey  
 Focused on **C/C++ development** for drone simulations and communication systems.
 
-- Developed **real-time UAV simulations** using **C++** and **Unreal Engine**.  
+- Developed **real-time UAV simulations** using **C++**.  
 - Implemented **socket programming** with **TCP/UDP** for real-time drone-to-ground communication.  
 - Worked on **V2X** simulations with **SUMO**, **Veins**, and **NS2** for autonomous driving use cases.  
-- Built **Simulair**, a distributed simulation platform using **Unity** and **AWS** (with some other web technologies.)
+- Built **Simulair**, a distributed simulation platform using C++ and **AWS** (with some other web technologies.)
 
-**Tech Stack**: C++, Unreal Engine, Linux System Programming, TCP/UDP Sockets, SUMO, Veins, NS2, AWS  
+**Tech Stack**: C++, TCP/UDP Sockets, SUMO, Veins, NS2, AWS  
 
 ---
 
 ### **Software Developer(Part-Time)**  
 **WalkOVR** | October 2018 – August 2019 | İstanbul, Turkey  
-Focused on C/C++ development for VR motion systems with Linux-based sensor integration.
+Focused on C/C++ development for motion systems with cross-platform driver and sdk development.
 
-- **VR Sensor Integration**  
-  - Developed C++ modules to interface with motion sensors, using **Linux system programming** for real-time data acquisition and processing.  
-  - Implemented **socket programming** to handle sensor data streaming and synchronization with VR applications.
-
-**Tech Stack**: C++, Linux System Programming, Sockets, Unity, VR Sensors  
+**Tech Stack**: C++, Sockets
 
 ---
 <br/>
 
 ## **Education**
 **Bachelor of Science in Electrical Engineering**  
-*Istanbul Technical University* | 2016 – 2020 | İstanbul, Turkey  
-- **Final Thesis:** Developing a Tool with Python for EEG Data Analysis
-- **Courses Taken Parallel with Profession:**
+*Istanbul Technical University* | 2016 – 2020 | İstanbul, Turkey 
+ 
+- __Final Thesis:__ Developing a Tool with Python for EEG Data Analysis 
+
+- __Courses Taken Parallel with Profession:__
+
     - Calculus
     - Differantial Equations
     - Linear Algebra 
@@ -112,16 +108,12 @@ Focused on C/C++ development for VR motion systems with Linux-based sensor integ
 ## **Courses**
 
 **C Programming Course**  
-**Institute**: C System Foundation  
+**Institute**: Necati Ergin
 - 200 hours of comprehensive training on C programming.
 
 **C++ Programming Course**  
-**Institute**: C System Foundation  
-- ~300 hours of comprehensive training on C++ programming.
-
-**Karma XR Development Course**  
-**Institute**: Koc University
-- ~200 hours of at place course for XR early adapters. 
+**Institute**: Necati Ergin
+- ~200 hours of comprehensive training on C++ programming.
 
 ---
 <br/>
@@ -145,7 +137,6 @@ Focused on C/C++ development for VR motion systems with Linux-based sensor integ
 
 **2017** - Started working as a part-time junior software engineer at Robostate, continuing until the company closed in 2018.<br/>
 **2018** - Began working at WalkOVR:<br/>
- - Attended the Karma XR Course. Developed Rainbow Bridge VR and received the "__Karmic Mention__" award.<br/>
  - Ran a successful Kickstarter campaign with WalkOVR.<br/>
 
 **2019** - Started working at Soar Robotics, founded by the former founders of Robostate.<br/>
