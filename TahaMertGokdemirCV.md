@@ -4,42 +4,54 @@
 **Email:** taha.m.gokdemir@gmail.com | **Phone:** +90-554-747-6997  
 **Location:** İstanbul, Turkey | **GitHub:** tahameg | **LinkedIn:** /in/taha-mert-gokdemir/  
 
-**About Me:**
+**Professional Summary:**
 
-I am an experienced Software Engineer with a strong focus on C/C++ and Real-time Simulations. I excel in developing high-performance applications, optimizing systems, and handling real-time communications. I also have a solid background in simulations and graphics APIs, and I’m skilled in application programming and real time simulation development
+Senior Software Engineer specializing in C/C++ for mission-critical, real-time simulation and avionic systems. 
+Proven track record in developing high-performance applications compliant with stringent safety standards like DO-178C.
+Expertise in low-level graphics (Vulkan/OpenGL), systems programming, and architecting scalable, cross-platform software solutions.
 
 ---
 
 ## **Experience**
 
 ### **Software Engineer**  
-**Born Immersive** | June 2023 – Present | London, UK  
-As a Senior Software Engineer, I specialize in C/C++ development for high-performance simulation applications and backend services.
+**Havelsan** | March 2025 – Present | İstanbul, Turkey
 
-- **Graphics API Development**  
-  - Developed industrial graphical applications using **Vulkan** and **OpenGL** on **Linux** for real-time training and simulation systems.  
+Got rehired to develop safety-critical avionic software for a strategic national project aimed at increasing Turkey's technological independence.
+Responsible for designing and implementing systems compliant with the highest aviation software standards.
 
-- **C++ SDK & Networking**  
-  - Designed and implemented core simulation modules in **C++**, including cross-platform support for Linux-based systems using **POSIX** APIs.  
-  - Implemented low-level **UDP/TCP socket communication** for multiplayer simulation environments, ensuring real-time performance.
+**Tech Stack**: C/C++, OpenGL, Vulkan, Apex, Posx, Arinc-653
 
-- **Project Leadership**  
-  - Led the Bottling Machine Lockout Procedure Simulation project, utilizing **C++** for logic and **socket programming** to manage synchronized multi-user sessions.
-
-**Tech Stack**: C++, C#, OpenGL, Vulkan, POSIX, Sockets, Parallel Programming 
+**Qualifications**: Do-178c DAL-A, Do-330 TQL-5
 
 ---
 
 ### **Software Engineer**  
+**Self-Employment** | August 2024 – March 2025 | Muğla, Turkey
+
+Following the closure of Born Immersive, operated as an independent consultant, successfully securing 
+and delivering on two software development contracts for London-based clients within six months.
+
+---
+
+### **Software Engineer**  
+**Born Immersive** | June 2023 – August - 2024 | London, UK  
+As a Senior Software Engineer, I specialize in C/C++ development for high-performance simulation applications and backend services.
+
+- Contributed to the company's flagship product, ActiveMatter, a real-time XR simulation platform for hard-skill training.
+- Contributed as a senior engineer until the company ceased operations in August 2024.
+
+**Tech Stack**: C++, C#, OpenGL, Vulkan, POSIX, Sockets, Parallel Programming 
+
+---
+<br/><br/><br/><br/>
+
+### **Software Engineer**  
 **Havelsan** | February 2022 – June 2023 | İstanbul, Turkey  
 Worked in the Advanced Technologies Department with a focus on C/C++ development for real-time simulation systems.
-
-- **Simulation Development**  
-  - Developed core simulation systems using **C++** and **C#**.  
-
-- **Networked Real-Time Simulations**  
-  - Designed and implemented a scalable network layer using **C++** and **TCP/UDP sockets** for a multi-user military simulation environment interoperable 
-  between GNU and Windows.
+ 
+- Developed strategical planning and visualization systems for military-grade usecases. This brought revolutionary and cutting-edge
+strategical planning capabilities to the company and the military.
 
 **Tech Stack**: C, C++, C#, Sockets (TCP/UDP), Parallel Programming
 
@@ -49,14 +61,9 @@ Worked in the Advanced Technologies Department with a focus on C/C++ development
 **C Tech Information Technologies Industry and Trade Inc.** | April 2021 – February 2022 | İstanbul, Turkey  
 Focused on data transmission and visualization solutions for military-grade communication systems.
 
-- **C++ Simulation Framework Development**  
-  - Built a development GUI using QT Framework and C++ for military-grade communication systems.
-  - Built a consumer GUI using web front end technologies such as vue and implemented the necessary data-distribution 
-  pipeline on rtos system that proxies data from memory to rabbitMQ to http (using lighthttpd c++ library).
-  - Built some modules for monitoring the communication quality using python.
-
-- **System Optimization & Interfacing**  
-  - Developed optimized **C++ modules** for handling high-throughput data streams on Linux, employing multi-threading and IPC mechanisms for performance improvements.
+- Contributed to the Ka band and Ku band data transmission system projects.
+- Developed high-level data distribution systems that communicate with low-level hardware.
+- Developed a GUI framework for visualizing data from low-level hardware, enabling real-time monitoring and control.
 
 **Tech Stack**: C++, RTOS, Linux System Programming, pthreads, POSIX Sockets, Python, REST, Vue.j
 
@@ -66,12 +73,10 @@ Focused on data transmission and visualization solutions for military-grade comm
 **Soar Robotics** | November 2019 – April 2021 | İstanbul, Turkey  
 Focused on **C/C++ development** for drone simulations and communication systems.
 
-- Developed **real-time UAV simulations** using **C++**.  
-- Implemented **socket programming** with **TCP/UDP** for real-time drone-to-ground communication.  
-- Worked on **V2X** simulations with **SUMO**, **Veins**, and **NS2** for autonomous driving use cases.  
-- Built **Simulair**, a distributed simulation platform using C++ and **AWS** (with some other web technologies.)
+- Developed photo-realistic air and ground robot simulations.
+- Led and managed the project Simulair which is a distributed simulation system for robot simulations.
 
-**Tech Stack**: C++, TCP/UDP Sockets, SUMO, Veins, NS2, AWS  
+**Tech Stack**: C++, TCP/UDP Sockets, ROS, SUMO, Veins, NS2, AWS  
 
 ---
 
@@ -90,18 +95,6 @@ Focused on C/C++ development for motion systems with cross-platform driver and s
  
 - __Final Thesis:__ Developing a Tool with Python for EEG Data Analysis 
 
-- __Courses Taken Parallel with Profession:__
-
-    - Calculus
-    - Differantial Equations
-    - Linear Algebra 
-    - Numerical Methods
-    - Microprocessor Programming
-    - Numerical Circuits
-    - Python Programming
-    - Control Systems
-    - Signals and Systems
-    - Design of Electrical Vehicles
 ---
 <br/>
 
@@ -116,39 +109,6 @@ Focused on C/C++ development for motion systems with cross-platform driver and s
 - ~200 hours of comprehensive training on C++ programming.
 
 ---
-<br/>
-
-## **Timeline**
-
-**2013** - Started at Istanbul Technical University in the Civil Engineering Department.<br/>
-**2015** - Went to the USA for the "__Work and Travel__" program.<br/>
-**2015** - Started a Mechanical Engineering Minor at ITU with a 3.3 GPA.<br/>
-- Employed as a mechanical design intern at Robostate.<br/>
-- Attended "__ARIGE__", the Student Robotics Club:<br/>
-    - Participated in Marmara Robot Olympics, securing second place and the Jury Special Award.<br/>
-    - Attended ODTÜ Robot Olympics.<br/>
-    - Worked with "__PARS ROCKET TEAM__" on the design and manufacturing of the rocket payload, and also in the software department. The team achieved fourth place at IREC.<br/>
-
-**2016** - Transferred to the Department of Electrical Engineering.<br/>
-**2016** - Co-founded ITU Rover Team:<br/>
-- Led the robotic arm team.<br/>
-- Developed the user interface for the rover.<br/>
-- Joined "__OTG__", the game development club. Developed games, organized events, and participated in game jams.<br/>
-
-**2017** - Started working as a part-time junior software engineer at Robostate, continuing until the company closed in 2018.<br/>
-**2018** - Began working at WalkOVR:<br/>
- - Ran a successful Kickstarter campaign with WalkOVR.<br/>
-
-**2019** - Started working at Soar Robotics, founded by the former founders of Robostate.<br/>
-**2020** - Graduated from Istanbul Technical University with a BSc degree in Electrical Engineering.<br/>
-**2021** - Joined CTech.<br/>
-**2022** - Began working at Havelsan.<br/>
-**2023** - Started working at Born Immersive.
-
-
-
-
-<br/>
 
 ## **Languages**
 **Turkish:** Native
@@ -156,16 +116,10 @@ Focused on C/C++ development for motion systems with cross-platform driver and s
 **English:** 
 - Overall IELTS Score of 7.0
 
-
-
-## Skills
-
-- **Programming Languages**: C++, C, Python, C#, Javascript
-- **System Programming**: Linux System Calls, POSIX APIs, Process Management, IPC
-- **Embedded**: RTOS, Embedded Linux, Stm32
-- **Devops and VCS**: Git, GitHub, Jenkins, GitHub Actions
-- **Networking**: TCP/UDP Socket Programming, Multi-Threading, Real-Time Data Synchronization
-- **Graphics APIs**: Vulkan, OpenGL, Compute Shaders
-- **XR Frameworks**: Unity XRITK, MRTK, OpenXR, Hololens 2
-- **Backend Technologies**: ASP.NET, REST, Flask, Microservices
-- **Simulation & Robotics**: Distributed Systems, Drone Simulation, Real-Time Systems, Ros2
+## Other Technologies & Frameworks <br/>
+Below are other technologies I have had a chance to work with during my professional and hobby projects: <br/>
+**Languages:** Python, C#, JavaScript <br/>
+**Embedded Systems:** FreeRTOS, Embedded Linux, STM32 <br/>
+**DevOps & VCS:** Git, GitHub, Jenkins, GitHub Actions <br/>
+**Backend & Web:** ASP.NET, REST, Flask, Microservices, Vue.js <br/>
+**XR & Robotics:** Unity (XRITK, MRTK), OpenXR, Hololens 2, ROS, ROS2 <br/>

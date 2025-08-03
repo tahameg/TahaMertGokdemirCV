@@ -2,12 +2,16 @@ import markdown
 import pdfkit
 import os
 import base64
+import configparser
+
+config = configparser.ConfigParser()
+config.read('config.ini')
 
 _default_relative_path = "TahaMertGokdemirCV.md"
 _default_output_file_name = "TahaMertGokdemirCV"
-_wkhtmltopdf_path = "D:\\Lib\\wkhtmltopdf\\bin\\wkhtmltopdf.exe"
-_image_file_name = "Portrait.png"
-_template_file_name = "pdfcvtemplate.html"
+_wkhtmltopdf_path = "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe"
+_image_file_name = config['template']['image_file']
+_template_file_name = config['template']['template_location']
 
 def convert_image_to_base64():
     current_dir = os.path.dirname(os.path.abspath(__file__))
